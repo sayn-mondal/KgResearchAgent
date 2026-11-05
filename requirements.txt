@@ -1,0 +1,27 @@
+# Core agent framework
+langchain==1.4.8
+langgraph==1.2.19
+
+# Gemini integration
+langchain-google-genai
+
+# Groq web research
+groq
+
+# Knowledge graph database
+neo4j
+
+# Environment configuration
+python-dotenv
+pydantic
+
+# Web research and HTML parsing
+requests
+beautifulsoup4
+lxml
+
+# Retry handling
+tenacity
+
+# Testing
+pytest
